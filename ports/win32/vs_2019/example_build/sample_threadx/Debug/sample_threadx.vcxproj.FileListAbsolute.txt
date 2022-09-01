@@ -1,0 +1,2 @@
+D:\03-code\threadx-master-backup\threadx-master\ports\win32\vs_2019\example_build\sample_threadx\Debug\sample_threadx.exe
+E:\2 PROC\threadx-master\ports\win32\vs_2019\example_build\sample_threadx\Debug\sample_threadx.exe

@@ -1,0 +1,1 @@
+D:\03-code\threadx-master-backup\threadx-master\ports\win32\vs_2019\example_build\tx\Debug\tx.lib

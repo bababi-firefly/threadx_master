@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7342deef-ab3f-00d5-9edb-2829cd277b76": {
+      "ProjectGuid": "7342deef-ab3f-00d5-9edb-2829cd277b76",
+      "DisplayName": "sample_threadx",
+      "ColorIndex": 0
+    },
+    "51907112-62da-98d6-7897-5a2fd48b99c3": {
+      "ProjectGuid": "51907112-62da-98d6-7897-5a2fd48b99c3",
+      "DisplayName": "tx",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
