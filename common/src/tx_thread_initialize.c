@@ -57,7 +57,7 @@ TX_THREAD *     _tx_thread_execute_ptr;
 
 /* Define the head pointer of the created thread list.  */
 
-TX_THREAD *     _tx_thread_created_ptr;
+TX_THREAD *     _tx_thread_created_ptr; // 已创建线程列表
 
 
 /* Define the variable that holds the number of created threads. */

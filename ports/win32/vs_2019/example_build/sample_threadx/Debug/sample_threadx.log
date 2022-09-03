@@ -1,5 +1,5 @@
 ﻿  sample_threadx.c
-E:\2 PROC\threadx-master\ports\win32\vs_2019\example_build\sample_threadx\sample_threadx.c(218,9): warning C4101: “status”: 未引用的局部变量
-E:\2 PROC\threadx-master\ports\win32\vs_2019\example_build\sample_threadx\sample_threadx.c(245,9): warning C4101: “status”: 未引用的局部变量
-E:\2 PROC\threadx-master\ports\win32\vs_2019\example_build\sample_threadx\sample_threadx.c(244,9): warning C4101: “received_message”: 未引用的局部变量
-  sample_threadx.vcxproj -> E:\2 PROC\threadx-master\ports\win32\vs_2019\example_build\sample_threadx\Debug\sample_threadx.exe
+E:\2 PROC\git_thread\threadx_master\ports\win32\vs_2019\example_build\sample_threadx\sample_threadx.c(218,9): warning C4101: “status”: 未引用的局部变量
+E:\2 PROC\git_thread\threadx_master\ports\win32\vs_2019\example_build\sample_threadx\sample_threadx.c(245,9): warning C4101: “status”: 未引用的局部变量
+E:\2 PROC\git_thread\threadx_master\ports\win32\vs_2019\example_build\sample_threadx\sample_threadx.c(244,9): warning C4101: “received_message”: 未引用的局部变量
+  sample_threadx.vcxproj -> E:\2 PROC\git_thread\threadx_master\ports\win32\vs_2019\example_build\sample_threadx\Debug\sample_threadx.exe

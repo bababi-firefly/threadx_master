@@ -141,7 +141,7 @@ TX_THREAD       *current_thread;
         work_ptr =     TX_VOID_TO_UCHAR_POINTER_CONVERT(stack_start);
         work_ptr =     TX_UCHAR_POINTER_ADD(work_ptr, (stack_size - ((ULONG) 1)));
         stack_end =    TX_UCHAR_TO_VOID_POINTER_CONVERT(work_ptr);
-        for (i = ((ULONG) 0); i < _tx_thread_created_count; i++)
+        for (i = ((ULONG) 0); i < _tx_thread_created_count; i++) // 遍历所有已创建线程
         {
         
             /* Determine if this thread matches the thread in the list.  */
